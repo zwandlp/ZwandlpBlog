@@ -20,7 +20,8 @@ enableEmoji = true
   # dir name of your blog content (default is `content/posts`)
   contentTypeName = "posts"
   # description about this website
-  description = "There is only one thing in the world worse than being talked about, and that is not being talked about."
+  description = "YuanZhiwang's blog."
+  
 
 [params.valine]
   enable = false
